@@ -1,7 +1,7 @@
 Roll No :1
 Name:MIMI
 Dept:BCA
-class:kjc
+clg:kjc
 
 
 
